@@ -21,7 +21,7 @@ To get started with the Contact Management System:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/contact-management.git
+   git clone https://github.com/Endritx/Contact_management_system.git
    
 2. Create the database and configure the required things in .env file.
 3. Install the necessary commands such as composer, laravel framework.
