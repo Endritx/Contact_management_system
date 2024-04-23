@@ -1,0 +1,1 @@
+<?php /**PATH /Users/endrit/Desktop/contact_app/resources/views/layouts/footer.blade.php ENDPATH**/ ?>
